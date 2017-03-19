@@ -1,4 +1,4 @@
-# VS1011
+# VS1005
 > VS1005 product family is the new flagship and VLSI Solution's first MP3 system-on-a-chip.
 > The features of VS1005 are particularly suited for portable audio devices, docking stations, and portable recorder applications.
 > The Hi-speed USB (480 Mbit/s) host function is useful in systems that require audio playback capability from external media such as USB memory sticks or drives, opening up many new applications in AV receivers and radio players. USB slave mode is also supported.
